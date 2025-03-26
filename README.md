@@ -5,4 +5,4 @@ You need to specify where your .jpg files are here
 
 folder_path <- "~/R working directory/Maya photos/"
 
-Cahnging "~/R working directory/Maya photos/" with your folder (i.e. "myfolder/")
+change "~/R working directory/Maya photos/" with your folder (i.e. "my_folder/")
