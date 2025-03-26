@@ -86,5 +86,6 @@ for (file in files) {
   # Append the result to the data frame
   results <- rbind(results, data.frame(File = basename(file),
                                        Percent_Green = percent_green,
+                                       Threshold = green_intensity_threshold,
                                        stringsAsFactors = F))
 }
